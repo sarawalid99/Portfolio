@@ -10,4 +10,5 @@ The portfolio website consists of several sections:
 - Contact Me: A section providing contact information and links to social media profiles.
 #
 Contributions to this repository are welcome. 
+
 If you find any issues or would like to suggest improvements, please open an issue or submit a pull request.
